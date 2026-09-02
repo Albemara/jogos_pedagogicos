@@ -69,7 +69,7 @@ IFPA — Campus Marabá Industrial
 
 Orientação
 
-Prof. Samuel Antonio Silva do Rosário
+Prof. Dr Samuel Antonio Silva do Rosário
 
 Projeto acadêmico
 
