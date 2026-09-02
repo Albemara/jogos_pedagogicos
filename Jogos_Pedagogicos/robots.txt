@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://albemara.github.io/trilha-de-aprendizagem/sitemap.xml
